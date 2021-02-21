@@ -1,14 +1,9 @@
-## Getting Started
+### PONG
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descripción
 
-## Folder Structure
+El juego consiste en una pelota, dos palas y ver quien es capaz de ganar al otro jugador mientras disfrutas de una agradable musica.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-## Dependency Management
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
